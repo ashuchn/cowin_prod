@@ -1,0 +1,12 @@
+*{
+    margin: 0%;
+    padding: 0%; 
+}
+.bg{
+    background-image: url(img3.jpg);
+    height: 100vh;
+    width: 100%;
+    padding: 30px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
